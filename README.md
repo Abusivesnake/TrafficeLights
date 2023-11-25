@@ -1,3 +1,3 @@
 # TrafficeLights
 
-# HTML, CSS, JS kullanarak trafik ışığı yapımını göstereceğim. Kaynak kodlarını paylaşacağım.
+HTML, CSS, JS kullanarak trafik ışığı yapımını göstereceğim. Kaynak kodlarını paylaşacağım.
